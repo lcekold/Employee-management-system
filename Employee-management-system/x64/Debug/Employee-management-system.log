@@ -1,0 +1,8 @@
+﻿  main.cpp
+  source.cpp
+D:\gitcode\Employee-management-system\Employee-management-system\source.cpp(122): warning C4312: “类型强制转换”: 从“int”转换到更大的“char *”
+D:\gitcode\Employee-management-system\Employee-management-system\source.cpp(184): warning C4312: “类型强制转换”: 从“int”转换到更大的“char *”
+D:\gitcode\Employee-management-system\Employee-management-system\source.cpp(236,26): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\gitcode\Employee-management-system\Employee-management-system\source.cpp(289): warning C4312: “类型强制转换”: 从“int”转换到更大的“char *”
+  正在生成代码...
+  Employee-management-system.vcxproj -> D:\gitcode\Employee-management-system\x64\Debug\Employee-management-system.exe
